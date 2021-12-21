@@ -8,9 +8,11 @@ I'm a young iOS developer and love making mobile apps and always looking for new
 
 ```swift
 struct PhongLe {
+
  let pronouns = "He" || "Him",
  let askMeAbout = ["ios dev", "tech", "game", "coffee"]
  let languages = ["Swift", "C", "C++", "Javascript", "Java"]
  let architectures = ["MVC", "MVVM"]
+ 
 }
 ```
